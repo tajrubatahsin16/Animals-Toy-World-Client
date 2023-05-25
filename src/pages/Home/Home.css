@@ -1,0 +1,9 @@
+@media screen and (max-width: 688px){
+    .banner{
+        flex-direction: column;
+    }
+    .tabs{
+        width: 350px !important;
+        margin-left: 0px !important;
+    }
+}
