@@ -12,6 +12,6 @@
 - Whenever a person will go to an option/route they'll see the route name on the title of the website with website's name.
 - In the homepage, there is a banner section, gallery section, categories of toys, about us section, contact us section.
 - As database Mongodb has been used. All the operations are dynamic from the backend.
-- In the backend express.js have been used. 
+- In the backend express.js has been used. 
 
 Live Site Link:  https://assignment-11-client-c2f6b.web.app
